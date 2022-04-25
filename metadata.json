@@ -1,0 +1,8 @@
+{
+  "name": "Workspace Switcher",
+  "description": "Easy switcher for worksapces",
+  "uuid": "workspace-switcher@caishuyao",
+  "shell-version": [
+    "42"
+  ]
+}
